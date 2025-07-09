@@ -2,3 +2,4 @@ venv/
 finalproject/archive (7)/
 finalproject/clustered_students.csv
 finalproject/clustered_students_scaled.csv
+.DS_Store
